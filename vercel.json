@@ -1,0 +1,7 @@
+{
+  "redirects": [
+    { "source": "/me", "destination": "https://scottspence.com#about" }
+    { "source": "/portfolio", "destination": "https://scottspence.com#portfolio" }
+    { "source": "/now", "destination": "https://scottspence.com#now" }
+  ]
+}
